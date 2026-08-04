@@ -41,19 +41,3 @@ I'm a Computer Programming student at Bilecik Şeyh Edebali University.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-
-## 🚀 Featured Project
-
-### AuraBoard
-
-<img src="https://res.cloudinary.com/kyoai1sv/image/upload/f_auto,q_auto/auraboard_vcgvhe" alt="AuraBoard" width="300"/>
-
-AuraBoard is a premium, local-first interactive whiteboard application built with React, TypeScript, and Vite. It runs entirely in the browser and provides advanced drawing tools, multi-board management, vector/raster exporting, and powerful AI-assisted design capabilities powered by the OpenRouter API.
-
-👉 **[View Project](https://auraboard-ten.vercel.app/)**
-
-## ❤️ Support Me
-
-<a href="https://kreosus.com/florexdev/about">
-  <img src="https://res.cloudinary.com/kyoai1sv/image/upload/v1783446780/kreosus_vshy6h.jpg" alt="Kreosus" width="210">
-</a>
