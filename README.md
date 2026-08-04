@@ -1,43 +1,85 @@
 <p align="right">
-  <a href="https://github.com/florexdev/florexdev/blob/main/README.md">🇹🇷 Türkçe</a>
+  <a href="https://github.com/florexdev">🇹🇷 Türkçe</a> |
+  <a href="https://github.com/florexdev/readme-en">🇬🇧 English</a>
 </p>
 
-# Hi 👋, I'm Burak.
-### Frontend Developer
+<h1 align="center">Hi 👋 I'm Burak</h1>
 
-I'm a Computer Programming student at Bilecik Şeyh Edebali University.
-
-## 🌐 Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/florexdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://florexdev.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website">
-  </a>
-  <a href="https://www.instagram.com/untitled.burak/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<p align="center">
+Frontend Developer • Computer Programming Student
 </p>
 
-## 💻 Programming Languages
+---
+
+## 👋 About Me
+
+- 🎓 Computer Programming student at **Bilecik Şeyh Edebali University**
+- 💻 Passionate about building modern web applications
+- 🎨 Interested in UI/UX, animations and clean interfaces
+- 🎮 Currently developing **Bloom**, a psychological adventure
+- 🌱 Always learning something new
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" />
 </p>
 
-## 🔧 Tools & Technologies
+### Backend & Database
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
+</p>
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 🌸 Featured Project
+
+### 🌺 Bloom
+
+A short psychological pixel-art adventure inspired by the fictional **Hanahaki Disease**.
+
+- Pixel Art
+- Unity
+- Story-driven gameplay
+- Psychological atmosphere
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://readme-stats-github.pages.dev/api?username=florexdev&theme=dark" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/florexdev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Some feelings refuse to stay buried."</i>
 </p>
