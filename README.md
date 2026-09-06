@@ -48,18 +48,6 @@ Frontend Developer • Computer Programming Student
 
 ---
 
-## 🌸 Featured Project
-
-### 🌺 Bloom
-
-A short psychological pixel art adventure inspired by the fictional **Hanahaki Disease**.
-
-- Pixel Art
-- Unity
-- Story-driven gameplay
-- Psychological atmosphere
-
----
 
 ## 📊 GitHub Stats
 
