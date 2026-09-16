@@ -48,14 +48,6 @@ Frontend Developer • Computer Programming Student
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://readme-stats-github.pages.dev/api?username=florexdev&theme=dark" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="left">
