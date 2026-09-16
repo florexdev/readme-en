@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-UI%20%26%20Animation-6366F1?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Focus-Frontend-6366F1?style=for-the-badge" alt="focus" />
   <img src="https://img.shields.io/badge/Location-Türkiye-6366F1?style=for-the-badge" alt="location" />
   <img src="https://komarev.com/ghpvc/?username=florexdev&label=Views&color=6366F1&style=for-the-badge" alt="views" />
 </p>
