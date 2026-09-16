@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://github.com/florexdev">Türkçe</a> |
+<a href="https://github.com/florexdev">Türkçe</a>
 </p>
 
 <h1 align="center">Hi 👋 I'm Burak</h1>
@@ -25,19 +25,19 @@ Frontend Developer • Computer Programming Student
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### Backend & Database
+### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python" />
+  <img src="https://skillicons.dev/icons?i=cs,python" />
 </p>
 
 ### Tools
@@ -47,7 +47,6 @@ Frontend Developer • Computer Programming Student
 </p>
 
 ---
-
 
 ## 📊 GitHub Stats
 
